@@ -1,0 +1,16 @@
+env
+logs
+pids
+nginx.conf
+supervisor.conf
+local.py
+*.log
+*.txt
+*.pyc
+*.xml
+*.xls
+*.pid
+*.lock
+*MainThread*
+.idea
+*_temp.py
