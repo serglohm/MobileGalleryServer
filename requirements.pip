@@ -1,0 +1,4 @@
+git+git://github.com/django/django.git
+MySQL-python 
+gunicorn
+pillow
